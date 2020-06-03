@@ -12,4 +12,5 @@ for j in range(len(list1)-1):
         else:
             print(list1)
     print()
+
 print("Sorted List:",list1)
